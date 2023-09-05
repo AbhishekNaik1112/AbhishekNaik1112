@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/142667674?s=400&u=35cYaCq1ZkkEiYL8e8pUuXzVzyuEYJdod4&v=4"  />
 
 ###
 
