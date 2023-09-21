@@ -13,16 +13,19 @@
 ###
 
 <div align="left">
+    <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
+
+ 
+  
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
