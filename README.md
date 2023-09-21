@@ -39,7 +39,7 @@
 <a href="www.linkedin.com/in/abhishek-naik-61356b278" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
 </a>
-<a href="abhisheknaik1112@gmail.com" target="_blank">
+<a href="www.gmail.com/abhisheknaik1112@gmail.com" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
 </a>
 </div>
