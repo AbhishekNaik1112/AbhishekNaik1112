@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Naik</h1>
-- 🌱 I’m currently learning <C++ & Frontend>
+- 🌱 I’m currently learning C++ & Frontend
 
 - 📫 How to reach me **abhisheknaik1112@gmail.com**
 
