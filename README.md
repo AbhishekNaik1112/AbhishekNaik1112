@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Naik</h1>
-- 🌱 I’m currently learning <h2>C++, HTML, CSS, JavaScript, ReactJS and Tailwind CSS</h2>
+- 🌱 I’m currently learning <b></b>C++, HTML, CSS, JavaScript, ReactJS and Tailwind CSS</b>
 
 - 📫 How to reach me **abhisheknaik1112@gmail.com**
 
