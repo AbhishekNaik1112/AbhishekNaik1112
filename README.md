@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Naik</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekNaik1112&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekNaik1112" /> </p>
 
-- 🌱 I’m currently learning **C++, HTML, CSS, JS, React.JS & Tailwind CSS**
+- I’m currently learning **C++, HTML, CSS, JS, React.JS & Tailwind CSS**
 
-- 📫 How to reach me **abhisheknaik1112@gmail.com**
+- How to reach me **[Mail me](abhisheknaik1112@gmail.com)**
+
+- My Portfolio **[Click Here](https://abhishekkk-portfolio.netlify.app)**
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
