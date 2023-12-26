@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Naik</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekNaik1112&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekNaik1112" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhishekNaik1112&theme=" alt="AbhishekNaik1112" /></a> </p>
 
 - 🌱 I’m currently learning **C++, HTML, CSS, JS, React.JS ,Tailwind CSS, TypeScript and Next.JS**
 
