@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **C++, HTML, CSS, JS, React.JS ,Tailwind CSS, TypeScript and Next.JS**
 
 - 📫 How to reach me **abhisheknaik1112@gmail.com**
-- 👨‍💻 All of my projects are available at **https://abhishekkk-portfolio.netlify.app**
+- 👨‍💻 My Portfolio **https://abhishekkk-portfolio.netlify.app**
 
 
 </div><h3 align="left">Connect with me:</h3>
