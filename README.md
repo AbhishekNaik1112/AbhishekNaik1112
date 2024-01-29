@@ -46,5 +46,5 @@ Currently, I am Learning Front End Development
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40" />
 </a>
 <a href="https://git-scm.com/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40" />
+<img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40" width="40" />
 </a>
