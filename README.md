@@ -1,7 +1,7 @@
 # Hi, I'm Abhishek Naik! 👋
 ## 🚀 About Me
 
-Currently, I am Learning Front End Development 
+Currently, I am Learning Full Stack Web Development 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekNaik1112&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="AbhishekNaik1112 stats card" /></p>
 <p>&nbsp;
