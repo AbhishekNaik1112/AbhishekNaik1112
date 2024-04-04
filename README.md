@@ -33,6 +33,12 @@ Currently, I am Learning Full Stack Web Development
 <a href="https://nextjs.org/" target="blank">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="40" width="40" />
 </a>
+<a href="https://nodejs.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+</a>
+<a href="https://expressjs.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
+</a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" height="40" width="40" />
 </a>
