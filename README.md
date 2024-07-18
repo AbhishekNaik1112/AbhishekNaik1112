@@ -13,7 +13,7 @@ Currently, I am Learning Full Stack Web Development
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNaik1112&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 
 ---
