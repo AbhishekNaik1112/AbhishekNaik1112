@@ -12,11 +12,4 @@ Currently, I am Learning Full Stack Web Development
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNaik1112&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNaik1112&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-
----
 [![](https://visitcount.itsvg.in/api?id=AbhishekNaik1112&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
