@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/142667674?v=4" align="center" style="width: 100%" />
+</div>  
+  
+
 ### <div align="center">I'm Abhishek Naik, A Full-Stack Developer</div>  
   
 
