@@ -56,7 +56,7 @@
 ## Github Stats  
 ### Activity  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbhishekNaik1112&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNaik1112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNaik1112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AbhishekNaik1112&&style=flat-square" align="center" />
