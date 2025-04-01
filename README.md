@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheknaik1112&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheknaik1112" /> </p>
 
-- 🔭 I’m currently working on **ANZ, An Auth Service using Django**
+- 🔭 I’m currently working on **ANZ, An Auth Service**
 
 - 🌱 I’m currently learning **and exploring more tech skills.**
 
