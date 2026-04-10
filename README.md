@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheknaik1112" alt="abhisheknaik1112" /></a> </p>
 
-- 🔭 I’m currently working on **ANZ, An Auth Service**
+- 🔭 I’m currently working on **Seekr**
 
 - 🌱 I’m currently learning **Django and exploring more tech skills.**
 
