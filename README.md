@@ -3,10 +3,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Abhishek%20G%20Naik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Abhishek%20G%20Naik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Backend&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/AbhishekNaik1112">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Abhishek+%F0%9F%91%8B;Full-stack+%26+TypeScript-first+developer;Currently+building+%E2%9A%99%EF%B8%8F+RankForge;Always+learning%2C+always+shipping" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Abhishek+%F0%9F%91%8B;Full-stack+engineer+across+TS%2C+Python+%26+Elixir;Building+AI+agents+and+the+backends+behind+them;Always+learning%2C+always+shipping" alt="typing" />
 </a>
 
 <br/>
@@ -25,17 +25,22 @@
 
 ```ts
 const abhishek = {
-  role: "Web Developer",
-  currentlyBuilding: "RankForge — multimodal semantic + keyword search for personal knowledge graphs",
+  role: "Full-Stack Engineer — AI systems & backend",
+  languages: ["TypeScript", "Python", "Elixir"],
+  currentlyBuilding: [
+    "Knowledge Atlas — REST + hybrid-search API over a Markdown knowledge graph",
+    "RankForge — multimodal semantic + keyword search for personal knowledge graphs",
+  ],
   learning: ["Django", "System Design", "ML tooling"],
-  loves: ["TypeScript", "real-time apps", "accessibility-first design", "shipping"],
+  loves: ["LLM evaluation", "real-time apps", "accessibility-first design", "shipping"],
   reachMe: "abhisheknaik1112@gmail.com",
 };
 ```
 
-- 🔭 &nbsp; Currently building **[RankForge](https://github.com/AbhishekNaik1112)** — a desktop app for semantic + keyword search across text, Markdown, PDFs, slides, and images.
+- 🔭 &nbsp; Currently building **[Knowledge Atlas](https://github.com/AbhishekNaik1112/knowledge-atlas)** — a FastAPI knowledge-catalog API with hybrid full-text + vector search, built test-first (116 tests).
+- ⚙️ &nbsp; And **[RankForge](https://github.com/AbhishekNaik1112/RankForge)** — a local-first desktop app for semantic + keyword search across text, Markdown, PDFs, slides, and images.
 - 🌱 &nbsp; Going deeper on **Django**, system design, and ML-adjacent tooling.
-- 💡 &nbsp; I like turning ideas into shipped products — voice-driven coding, real-time chat, accessibility tooling.
+- 💡 &nbsp; I like turning ideas into shipped products — AI agents, voice-driven coding, real-time chat, accessibility tooling.
 - 📫 &nbsp; Reach me at **abhisheknaik1112@gmail.com**.
 
 ---
@@ -63,11 +68,14 @@ const abhishek = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -98,12 +106,12 @@ const abhishek = {
 
 | 🛠️ Project | 📝 Description | 🧰 Stack |
 | :--- | :--- | :--- |
-| 🔍 **[RankForge](https://github.com/AbhishekNaik1112)** | Desktop app for **multimodal semantic + keyword search** over personal knowledge graphs — text, Markdown, PDFs, slides, images. | `TypeScript` `Embeddings` |
-| 🏥 **[Medisure](https://github.com/AbhishekNaik1112)** | Full-stack **insurance claims platform** with JWT auth — patients submit, insurers process, audit-ready. | `React` `NestJS` `MongoDB` |
+| 🗺️ **[Knowledge Atlas](https://github.com/AbhishekNaik1112/knowledge-atlas)** | **REST + web catalog** over a Markdown knowledge graph. Hybrid search fuses Postgres full-text with pgvector semantics via reciprocal-rank fusion. Built test-first — **116 tests**. | `FastAPI` `pgvector` `htmx` |
+| 🔍 **[RankForge](https://github.com/AbhishekNaik1112/RankForge)** | Local-first desktop app for **multimodal semantic + keyword search** over personal knowledge graphs — text, Markdown, PDFs, slides, images. | `Electron` `React` `FastAPI` |
+| 🏥 **[Medisure](https://github.com/AbhishekNaik1112/Medisure)** | Full-stack **insurance claims platform** with JWT auth — patients submit, insurers process, audit-ready. | `React` `NestJS` `MongoDB` |
 | 🎙️ **[VozEngine](https://github.com/AbhishekNaik1112/VozEngine)** | **Voice-command coding** tool focused on accessibility for users with physical disabilities. | `TypeScript` |
-| ⚡ **[FlashFiles](https://github.com/AbhishekNaik1112/FlashFiles)** | Real-time **chat + file-sharing + voice calling**, zero authentication required. | `TypeScript` `WebRTC` |
-| 📚 **[GradeFlow](https://github.com/AbhishekNaik1112)** | Centralized **study tracker** for assignments, deadlines, and grades. MIT licensed. | `TypeScript` |
-| 🛡️ **[VIGIL](https://github.com/AbhishekNaik1112)** | **Discord moderation bot** detecting phishing links to keep servers safe. | `JavaScript` `Discord.js` |
+| 📚 **[GradeFlow](https://github.com/AbhishekNaik1112/GradeFlow)** | Centralized **study tracker** for assignments, deadlines, and grades. MIT licensed. | `TypeScript` |
+| 🛡️ **[VIGIL](https://github.com/AbhishekNaik1112/VIGIL)** | **Discord moderation bot** detecting phishing links to keep servers safe. | `JavaScript` `Discord.js` |
 
 </div>
 
@@ -119,16 +127,6 @@ const abhishek = {
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNaik1112&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&langs_count=10" />
-
-</div>
-
----
-
-## 🏆 &nbsp;Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhishekNaik1112&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 
 </div>
 
